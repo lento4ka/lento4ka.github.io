@@ -1,0 +1,15 @@
+.b-task
+{
+    float: left;
+    clear: both;
+
+    width: 100%;
+    margin-bottom: 2em;
+}
+
+.b-task__img
+{
+    float: left;
+    
+    margin: -12px 10px 0 -10px;
+}
